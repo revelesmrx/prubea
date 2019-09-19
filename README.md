@@ -1,2 +1,0 @@
-# prubea
-Created with CodeSandbox
